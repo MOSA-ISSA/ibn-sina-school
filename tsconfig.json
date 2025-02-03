@@ -13,8 +13,8 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts",
-    "app/slides/CarsStore.jsx",
+    "app/slides/CarsStore.tsx",
     "app/_layout.jsx",
-    "app/slides/Menu.jsx"
+    "app/slides/Menu.tsx"
   ]
 }

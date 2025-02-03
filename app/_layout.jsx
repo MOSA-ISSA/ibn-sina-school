@@ -7,7 +7,7 @@ export default function RootLayout() {
 
   return (
     <SafeAreaProvider>
-      <SafeAreaView style={styles.container}>
+      <SafeAreaView style={styles.view}>
         <StatusBar
           animated={true}
           backgroundColor={"#000"}
@@ -19,7 +19,7 @@ export default function RootLayout() {
 }
 
 const styles = StyleSheet.create({
-  container: {
+  view: {
     flex: 1,
   },
 });
